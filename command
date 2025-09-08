@@ -1,3 +1,5 @@
+https://chatgpt.com/share/68be90e0-fab0-8000-8d34-20d64cd7732d
+
 # Install ps2exe if not installed
 Install-Module -Name ps2exe -Scope CurrentUser
 
